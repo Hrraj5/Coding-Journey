@@ -11,3 +11,5 @@ Hacker Rank (Java Journey)
     8.04/01/2022 - Concatation array (https://leetcode.com/problems/concatenation-of-array/submissions/)
     9.05/01/2022 - Check if All A's Appears Before All B's (https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/submissions/)
     10.06/01/2022- panagram (https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/)
+    ---- Took One Day Break---
+    11.08/01/2022- Check If Two String Arrays are Equivalent(https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/)
