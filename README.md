@@ -13,3 +13,5 @@ Hacker Rank (Java Journey)
     10.06/01/2022- panagram (https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/)
     ---- Took One Day Break---
     11.08/01/2022- Check If Two String Arrays are Equivalent(https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/)
+    12.09/01/2022- Majority Number
+    13.10.01/2022- Palindrome Number(https://leetcode.com/problems/palindrome-number/submissions/)
