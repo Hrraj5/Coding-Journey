@@ -14,4 +14,6 @@ Hacker Rank (Java Journey)
     ---- Took One Day Break---
     11.08/01/2022- Check If Two String Arrays are Equivalent(https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/)
     12.09/01/2022- Majority Number
-    13.10.01/2022- Palindrome Number(https://leetcode.com/problems/palindrome-number/submissions/)
+    13.10/01/2022- Palindrome Number(https://leetcode.com/problems/palindrome-number/submissions/)
+    14.13/01/2022- Plus one (https://leetcode.com/problems/plus-one/submissions/)
+    15.14/01/2022- Smallest Index with Equal Number (https://leetcode.com/problems/smallest-index-with-equal-value/submissions/)
